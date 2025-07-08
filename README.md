@@ -28,7 +28,12 @@ I. I compare the performance of small and large versions of the following models
 
 ![1_i-yqUwAYTo2Mz-P1Ql6MbA](https://github.com/user-attachments/assets/fca6a493-7250-405c-bf09-efa68148cc7b)
 
+
+
 II. Results
+
+
+
 ![Screenshot 2025-07-08 at 10 12 03 AM](https://github.com/user-attachments/assets/4a0e84b8-1d3e-4e1b-bb16-1b691dba8406)
 ![Screenshot 2025-07-08 at 10 11 52 AM](https://github.com/user-attachments/assets/e8e5189a-cc28-4cea-a094-1bbe816c6253)
 ![Screenshot 2025-07-08 at 10 11 37 AM](https://github.com/user-attachments/assets/9643e136-8728-4fcf-be41-df031fa45019)
