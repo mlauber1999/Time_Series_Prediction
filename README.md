@@ -8,6 +8,8 @@ I. I compare the performance of small and large versions of the following models
 
 ![rnn](https://github.com/user-attachments/assets/aa515e3e-9c5e-4d08-8cd7-536ac0f2226f)
 
+
+
 * BiDirectional Recurrent Neural Network (BRNN)
 
   
@@ -15,11 +17,15 @@ I. I compare the performance of small and large versions of the following models
 
 * Long Short-Term Memory (LSTM)
 
+
+
   
 ![1_Mb_L_slY9rjMr8-IADHvwg](https://github.com/user-attachments/assets/b96c84ac-714b-46e6-826c-3b871a992232)
 
 * Gated Recurrent Unit (GRU)
-  
+
+
+
 ![1_i-yqUwAYTo2Mz-P1Ql6MbA](https://github.com/user-attachments/assets/fca6a493-7250-405c-bf09-efa68148cc7b)
 
 II. Results
