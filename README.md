@@ -5,33 +5,11 @@ Mini project to experiment with synthetic time series data generation and predic
 I. I evaluate the performance of the following models and compare the Root Mean Squared Error (RMSE) on 10 years of synthetically generated time series data vs. 30 years of data. 
 
 * Deep Recurent Neural Network (RNN)
-
-
-![1_I5iwCL8zDo9OppBPsprwTw](https://github.com/user-attachments/assets/61f38847-44c8-44f8-b915-82139c130eb7)
-
-
-![rnn](https://github.com/user-attachments/assets/aa515e3e-9c5e-4d08-8cd7-536ac0f2226f)
-
-
-
 * BiDirectional Recurrent Neural Network (BRNN)
-
-  
-![bidirectional](https://github.com/user-attachments/assets/946cc373-c04a-4b1a-ae3f-4d63e2a93f26)
-
 * Long Short-Term Memory (LSTM)
-
-
-
-  
-![1_Mb_L_slY9rjMr8-IADHvwg](https://github.com/user-attachments/assets/b96c84ac-714b-46e6-826c-3b871a992232)
-
 * Gated Recurrent Unit (GRU)
 
-
-
-![1_i-yqUwAYTo2Mz-P1Ql6MbA](https://github.com/user-attachments/assets/fca6a493-7250-405c-bf09-efa68148cc7b)
-
+![1_I5iwCL8zDo9OppBPsprwTw](https://github.com/user-attachments/assets/61f38847-44c8-44f8-b915-82139c130eb7)
 
 
 II. Results
