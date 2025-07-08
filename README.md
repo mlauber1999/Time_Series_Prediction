@@ -7,6 +7,9 @@ I. I evaluate the performance of the following models and compare the Root Mean 
 * Deep Recurent Neural Network (RNN)
 
 
+![1_I5iwCL8zDo9OppBPsprwTw](https://github.com/user-attachments/assets/61f38847-44c8-44f8-b915-82139c130eb7)
+
+
 ![rnn](https://github.com/user-attachments/assets/aa515e3e-9c5e-4d08-8cd7-536ac0f2226f)
 
 
