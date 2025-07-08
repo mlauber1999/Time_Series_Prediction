@@ -2,7 +2,8 @@
 Mini project to experiment with synthetic time series data generation and prediction models, including LSTM, GRU, BiDirectional RNN and Deep RNN. 
 
 
-I. I compare the performance of small and large versions of the following models:
+I. I evaluate the performance of the following models and compare the Root Mean Squared Error (RMSE) on 10 years of synthetically generated time series data vs. 30 years of data. 
+
 * Deep Recurent Neural Network (RNN)
 
 
