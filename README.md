@@ -2,7 +2,7 @@
 Mini project to experiment with synthetic time series data generation (small vs. large datasets) and how dataset size affects performance of prediction models, including LSTM, GRU, BiDirectional RNN and Deep RNN. 
 
 
-I. I evaluate the performance of the following models and compare the Root Mean Squared Error (RMSE) on 10 years of synthetically generated time series data (small) vs. 30 years of data (large). 
+I. Evaluate the performance of the following models and compare the Root Mean Squared Error (RMSE) on 10 years of synthetically generated time series data (small) vs. 30 years of data (large). 
 
 * Deep Recurent Neural Network (RNN)
 * BiDirectional Recurrent Neural Network (BRNN)
