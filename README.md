@@ -31,6 +31,9 @@ I. I compare the performance of small and large versions of the following models
 
 
 II. Results
+![Screenshot 2025-07-08 at 10 49 29 AM](https://github.com/user-attachments/assets/158b1a20-d560-424d-b247-030632cb54a5)
+
+![Screenshot 2025-07-08 at 10 49 50 AM](https://github.com/user-attachments/assets/80b2a39f-0603-4e66-8ec7-556dcaff70f0)
 
 
 
